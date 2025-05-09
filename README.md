@@ -1,0 +1,3 @@
+requirements:
+
+pip install nbtlib
